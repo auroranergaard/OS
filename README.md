@@ -16,8 +16,8 @@ This project is a series of labs designed to teach operating system concepts usi
 
 1. **Clone the repository**:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/auroranergaard/OS
+    cd OS
     ```
 
 2. **Navigate to the lab directory**:
