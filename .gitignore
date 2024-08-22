@@ -1,0 +1,27 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore compiled files
+*.o
+*.out
+*.s
+*.asm
+
+# Ignore build directories and files
+lab-l1-handout/xv6.out
+lab-l1-handout/xv6.out.*
+lab-l1-handout/fs.img
+lab-l1-handout/fs 2.img
+lab-l1-handout/test-lab-l1
+lab-l2-handout/fs.img
+lab-l2-handout/fs 2.img
+lab-l2-handout/fs 3.img
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore handin directories
+lab-l1-handout/lab-l1-handin/
